@@ -1,0 +1,7 @@
+p {
+    /* 폰트 크기 설정 */
+    font-size : 60px;
+    /*폰트 두께*/
+    font-weight : 800;
+    text-align: center;
+}
