@@ -1,3 +1,3 @@
 const popAlert = () => {
-    alert('으어억')
+    alert('미야옹 야옹 야아옹')
 }
